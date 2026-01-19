@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">MpjYolo26</string>
+    <string-array name="model_array">
+        <item>yolo26n</item>
+        <item>yolo26s</item>
+    </string-array>
+    <string-array name="cpugpu_array">
+        <item>CPU</item>
+        <item>GPU</item>
+    </string-array>
 </resources>
