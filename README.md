@@ -3,6 +3,12 @@ Yolo26 model supports android deployment.
 
 ## Please, have some stars for this repo. Thank you! 🌟🌟🌟🌟🌟
 
+## Experience APK download address:
+
+[APK](https://github.com/mpj1234/ncnn-yolo26-android/releases/download/asserts/app-release.APK)
+
+https://github.com/mpj1234/ncnn-yolo26-android/releases/download/asserts/app-release.APK
+
 ## Update to Custom Model
 
 ### 1. export ncnn model
@@ -67,3 +73,7 @@ Open the android project in Android Studio, build and run it on your android dev
     <td><img src=".asserts/out.gif" alt="图3" style="width: 100%"/></td>
   </tr>
 </table>
+
+## logcat result
+
+![log.png](.asserts/log.png)
